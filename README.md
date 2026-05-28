@@ -1,16 +1,85 @@
-## Hi there 👋
+# Hi, I'm Riddhi Gayathri ✨👋
 
-<!--
-**riddhi-gayathri/riddhi-gayathri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌸 About Me
 
-Here are some ideas to get you started:
+I’m a Software Engineering student interested in Python 🐍, Data Analytics 📊, Product Management 🚀, and Business Analysis 📈. I enjoy learning how technology, creativity, and problem-solving come together to build useful products and experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Exploring
+
+* Python programming
+* Data analysis and visualization
+* Product thinking and business strategy
+* Web technologies and software development
+* AI tools and practical applications
+
+---
+
+## 🛠️ Skills
+
+### 💻 Programming & Tech
+
+* Python (Beginner to Intermediate)
+* HTML & CSS
+* JavaScript (Basics)
+* SQL (Basics)
+* Data Structures & Problem Solving (Learning)
+
+### ⚡ Tools & Platforms
+
+* Git & GitHub
+* VS Code
+* Canva
+* Microsoft Excel
+* Power BI (Learning)
+* ChatGPT & AI Productivity Tools
+
+### 🎯 Areas of Interest
+
+* Data Analytics
+* Product Management
+* Business Analysis
+* UI/UX & Creative Design
+* Artificial Intelligence
+* Content Creation & Digital Media
+* Storytelling & Creative Projects
+
+### 🌟 Soft Skills
+
+* Communication
+* Creativity
+* Team Collaboration
+* Presentation Skills
+* Analytical Thinking
+* Adaptability
+
+---
+
+## 🚀 Current Goals
+
+* Build real-world projects
+* Improve problem-solving skills
+* Learn advanced Python and analytics
+* Contribute to open-source projects
+* Explore internships and tech opportunities
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+
+---
+
+## 🌐 Connect With Me
+
+* LinkedIn: [Add Your LinkedIn Link]
+* Email: [Add Your Email]
+
+---
+
+## 🎨 Fun Fact
+
+I enjoy combining creativity 🎨 with technology 💻 and exploring ideas that connect business 📈, design ✨, and software 🚀.
+
