@@ -66,16 +66,15 @@ I’m a Software Engineering student interested in Python 🐍, Data Analytics �
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riddhi-gayathri\&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riddhi-gayathri\&layout=compact)
 
 ---
 
 ## 🌐 Connect With Me
 
-* LinkedIn: [Add Your LinkedIn Link]
-* Email: [Add Your Email]
+* Email: riddhigayathri@gmail.com
 
 ---
 
